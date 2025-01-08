@@ -1,4 +1,3 @@
-```markdown
 # Finance Dashboard
 
 Track your income and expenses with Finance Dashboard. This web application helps you to manage and monitor your financial transactions, providing a detailed overview of your finances with real-time data.
@@ -27,7 +26,7 @@ Track your income and expenses with Finance Dashboard. This web application help
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sanidhyy/finance-dashboard.git
+git clone https://github.com/mamskie/Finance-Management.git
 cd finance-dashboard
 ```
 
@@ -66,7 +65,7 @@ npm run start
 
 ## Contribution
 
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues via the [issues page](https://github.com/sanidhyy/finance-dashboard/issues).
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues via the [issues page](https://github.com/mamskie/Finance-Management/issues).
 
 ## License
 
