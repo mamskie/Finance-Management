@@ -37,7 +37,7 @@ npm install
 ```
 
 ### 3. Configure the environment variables
-Create a `.env.local` file in the root directory and add the necessary environment variables. Refer to `.env.example` for the required values.
+Create a `.env` file in the root directory and add the necessary environment variables. Refer to `.env.example` for the required values.
 
 ### 4. Run the development server
 ```bash
